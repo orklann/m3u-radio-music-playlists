@@ -1,0 +1,6079 @@
+[
+  {
+    "name": "NHK FM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "https://nhkradioakfm-i.akamaihd.net/hls/live/512290/1-fm/1-fm-01.m3u8"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "82.5 FM"
+      }
+    ],
+    "genres": [
+      "Public"
+    ]
+  },
+  {
+    "name": "NHK R2",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "https://nhkradioakr2-i.akamaihd.net/hls/live/511929/1-r2/1-r2-01.m3u8"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "693 AM"
+      }
+    ],
+    "genres": [
+      "Public"
+    ]
+  },
+  {
+    "name": "NHK R1",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "https://nhkradioakr1-i.akamaihd.net/hls/live/511633/1-r1/1-r1-01.m3u8"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "594 AM"
+      }
+    ],
+    "genres": [
+      "Public"
+    ]
+  },
+  {
+    "name": "Ghost Anime Radio - Animeradio.su",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://animeradio.su/playlists/gar.m3u"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "FM いるか (FM Iruka)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/iruka.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hakodate",
+        "latitude": 41.77583,
+        "longitude": 140.73667,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "80.7FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "ラジオカロスサッポロ (Radio Karos)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/radiokaros.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Sapporo",
+        "latitude": 43.06417,
+        "longitude": 141.34694,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.1 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "レインボータウンFM (Rainbowtown FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/rainbowtown.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kōtō-ku",
+        "latitude": 35.66667,
+        "longitude": 139.81667,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Jazz24",
+    "status": "ACTIVE",
+    "country_code": "us",
+    "country_name": "United States",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://icy1.abacast.com/kplu-jazz24aac-64"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Seattle",
+        "latitude": 47.60621,
+        "longitude": -122.33207,
+        "state": "Washington",
+        "country_name": "United States",
+        "country_code": "us",
+        "frequency": "88.5 FM"
+      },
+      {
+        "name": "Tacoma",
+        "latitude": 47.25288,
+        "longitude": -122.44429,
+        "state": "Washington",
+        "country_name": "United States",
+        "country_code": "us",
+        "frequency": "88.5 FM"
+      }
+    ],
+    "genres": [
+      "Jazz"
+    ]
+  },
+  {
+    "name": "AnimeNfo",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://emaru.animenfo.com:443/listen.pls"
+      },
+      {
+        "quality": 128,
+        "url": "http://itori.animenfo.com:443/listen.pls"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "DAB"
+      }
+    ],
+    "genres": [
+      "J-pop"
+    ]
+  },
+  {
+    "name": "FM世田谷",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://hls1.bitmedia.ne.jp/hlsdata/fm834/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "http://radio2.bitmedia.ne.jp/hlsdata/fm834/playlist.m3u8?n=3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.4 FM"
+      }
+    ],
+    "genres": [
+      "Adult Contemporary",
+      "Talk"
+    ]
+  },
+  {
+    "name": "FMたなべ (FM Tanabe)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 63,
+        "url": "http://wms.shibapon.net/FmTanabe"
+      },
+      {
+        "quality": 63,
+        "url": "http://www.simulradio.info/asx/fm-tanabe.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tanabe",
+        "latitude": 33.73333,
+        "longitude": 135.36667,
+        "state": "Wakayama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "88.5 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "むさしのFM 78.2",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB032.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul032-live1.sp1.fmslive.stream.ne.jp/jcbasimul032-live1/_definst_/jcbasimul032-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul032-live2.sp2.fmslive.stream.ne.jp/jcbasimul032-live2/_definst_/jcbasimul032-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Musashino",
+        "latitude": 35.70611,
+        "longitude": 139.55944,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.2 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "さっぽろ村ラジオ",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 32,
+        "url": "http://www.acj.ne.jp:8080/live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Unknown",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "state": null,
+        "country_name": "Afghanistan",
+        "country_code": "af",
+        "frequency": "81.3 FM"
+      }
+    ],
+    "genres": [
+      "Talk"
+    ]
+  },
+  {
+    "name": "BBC World Service",
+    "status": "ACTIVE",
+    "country_code": "gb",
+    "country_name": "United Kingdom",
+    "streams": [
+      {
+        "quality": 56,
+        "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup"
+      }
+    ],
+    "cities": [
+      {
+        "name": "London",
+        "latitude": 51.50853,
+        "longitude": -0.12574,
+        "state": "England",
+        "country_name": "United Kingdom",
+        "country_code": "gb",
+        "frequency": "DAB"
+      }
+    ],
+    "genres": [
+      "News",
+      "International"
+    ]
+  },
+  {
+    "name": "DARAZ FM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://darazfm.ddo.jp:8080/"
+      },
+      {
+        "quality": 64,
+        "url": "http://www.darazfm.com/streaming.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yonago",
+        "latitude": 35.43333,
+        "longitude": 133.33333,
+        "state": "Tottori",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.8 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FM Castle 79.0",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.fm-castle.jp/simul.asx"
+      },
+      {
+        "quality": 64,
+        "url": "mms://211.1.40.29/castle"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.0 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMぱるるん (FM Palulun)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/fmpalulun.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Mito-shi",
+        "latitude": 36.34139,
+        "longitude": 140.44667,
+        "state": "Ibaraki",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.2 FM"
+      }
+    ],
+    "genres": [
+      "Talk",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "エフエムつやま FM 78.0",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://onair.fm-tsuyama.jp:1080/fmtsuyama_live.ogg"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tsuyama",
+        "latitude": 35.05,
+        "longitude": 134.0,
+        "state": "Okayama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.0 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "Japan-a-Radio 日本流行音樂與動畫卡通歌曲",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 48,
+        "url": "http://www.japanaradio.com/free/48kaacp.pls"
+      },
+      {
+        "quality": 128,
+        "url": "http://audio.misproductions.com/japan128k"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Variety"
+    ]
+  },
+  {
+    "name": "まえばしCITYエフエム (M-wave)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://radio.maebashi.fm:8080/mwave"
+      },
+      {
+        "quality": 64,
+        "url": "http://www.maebashi.fm/simul.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Maebashi",
+        "latitude": 36.39111,
+        "longitude": 139.06083,
+        "state": "Gunma",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.5 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Community"
+    ]
+  },
+  {
+    "name": "FMビーチステーション (Beach Station)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/beach_station.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shirahama",
+        "latitude": 34.78333,
+        "longitude": 134.71667,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.4 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "BAN-BANラジオ",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/banban.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kakogawa",
+        "latitude": 34.76667,
+        "longitude": 134.85,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "86.9 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMびざん (B-FM791)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 63,
+        "url": "http://simuledge.shibapon.net/B-FM791"
+      },
+      {
+        "quality": 63,
+        "url": "http://www.simulradio.info/asx/b-fm791.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokushima",
+        "latitude": 34.06583,
+        "longitude": 134.55944,
+        "state": "Tokushima",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.1 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "Talk"
+    ]
+  },
+  {
+    "name": "調布FM (Chofu FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "mmsh://211.1.40.129:80/chofu"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Chōfugaoka",
+        "latitude": 35.65924,
+        "longitude": 139.54837,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.8 FM"
+      }
+    ],
+    "genres": [
+      "News",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "FM21",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/fm21.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Okinawa",
+        "latitude": 26.33583,
+        "longitude": 127.80139,
+        "state": "Okinawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.8 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "Talk",
+      "Local"
+    ]
+  },
+  {
+    "name": "FM高松 (FM Takamatsu)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://www.simulradio.info/asx/fm815.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Takamatsu",
+        "latitude": 34.34028,
+        "longitude": 134.04333,
+        "state": "Kagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "81.5 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "Talk"
+    ]
+  },
+  {
+    "name": "FMりべーる (FM Riviére)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 63,
+        "url": "http://www.simulradio.info/asx/fm837.asx"
+      },
+      {
+        "quality": 63,
+        "url": "mmsh://simuledge.shibapon.net/fm837?MSWMExt=.asf"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Asahikawa",
+        "latitude": 43.76778,
+        "longitude": 142.37028,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.7 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "Talk"
+    ]
+  },
+  {
+    "name": "エフエム会津 76.2 (FM Aizu)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/aizu.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Fukushima-shi",
+        "latitude": 37.75,
+        "longitude": 140.46778,
+        "state": "Fukushima-ken",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.2 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Talk"
+    ]
+  },
+  {
+    "name": "FMちゅーピー (FM Chupea)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB082.stream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/fm-chupea.asx"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul076-live1.sp1.fmslive.stream.ne.jp/jcbasimul076-live1/_definst_/jcbasimul076-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB082-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hiroshima",
+        "latitude": 34.39627,
+        "longitude": 132.45937,
+        "state": "Hiroshima",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.6 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "Talk"
+    ]
+  },
+  {
+    "name": "FMジャングル 76.4 (FM Jungle)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/jungle.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Toyooka",
+        "latitude": 35.53333,
+        "longitude": 134.83333,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.4 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMゲンキ (FM Genki)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/fm-genki.asx"
+      },
+      {
+        "quality": 64,
+        "url": "http://hdv5.nkansai.tv/genki/"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Himeji",
+        "latitude": 34.81667,
+        "longitude": 134.7,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.3 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMひらかた (FM Hirakata)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/hirakata.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hirakata",
+        "latitude": 34.81352,
+        "longitude": 135.64914,
+        "state": "Ōsaka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.9 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMいわき (Sea Wave FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/fm-iwaki.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Iwaki",
+        "latitude": 37.05,
+        "longitude": 140.88333,
+        "state": "Fukushima-ken",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.2 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "Talk"
+    ]
+  },
+  {
+    "name": "ｆｍいずみ (FM Izumi)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 192,
+        "url": "http://www.simulradio.info/asx/fmIzumi.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Sendai",
+        "latitude": 38.26889,
+        "longitude": 140.87194,
+        "state": "Miyagi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.7 FM"
+      }
+    ],
+    "genres": [
+      "News",
+      "Talk"
+    ]
+  },
+  {
+    "name": "FM軽井沢 (FM KARUIZAWA)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "https://musicbird-hls.leanstream.co/musicbird/JCB108.stream/playlist.m3u8"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nagano",
+        "latitude": 36.65139,
+        "longitude": 138.18111,
+        "state": "Nagano",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.5 FM"
+      }
+    ],
+    "genres": [
+      "Variety",
+      "Talk"
+    ]
+  },
+  {
+    "name": "エフエムかしま",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB024.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul027-live1.sp1.fmslive.stream.ne.jp/jcbasimul027-live1/_definst_/jcbasimul027-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB024-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kashima-shi",
+        "latitude": 35.96536,
+        "longitude": 140.64474,
+        "state": "Ibaraki",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.7 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "FM Kento",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB094.stream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/fmkento.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Niigata",
+        "latitude": 37.90222,
+        "longitude": 139.02361,
+        "state": "Niigata",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.5 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music"
+    ]
+  },
+  {
+    "name": "ウメダFM Be Happy!789 (FMキタ)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "https://musicbird-hls.leanstream.co/musicbird/JCB068.stream/playlist.m3u8"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB068-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Osaka",
+        "latitude": 34.69374,
+        "longitude": 135.50218,
+        "state": "Ōsaka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.9 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FM KITAQ",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.shimabara.fm/st/fm-kitaq-live.asx"
+      },
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.jp/asx/FmKitaq.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kitakyushu",
+        "latitude": 33.83333,
+        "longitude": 130.83333,
+        "state": "Fukuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.5 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Community",
+      "News",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "FMくしろ 76.1 (FM Kushiro)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 63,
+        "url": "http://www.simulradio.info/asx/FmKushiro.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kushiro",
+        "latitude": 42.975,
+        "longitude": 144.37472,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.1 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "FMみっきぃ (FM Miki)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 63,
+        "url": "http://www.simulradio.info/asx/fm-miki.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Miki",
+        "latitude": 34.8,
+        "longitude": 134.98333,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.1 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "みやこハーバーラジオ (Miyako Harbor Radio)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/FmMiyako.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Miyako",
+        "latitude": 39.63667,
+        "longitude": 141.9525,
+        "state": "Iwate",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "82.6 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "Talk"
+    ]
+  },
+  {
+    "name": "エフエム モットコム (FM Mot.com)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/fmmotcom.asx"
+      },
+      {
+        "quality": 64,
+        "url": "mms://hdv2.nkansai.tv/fmmotcom"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Motomiya",
+        "latitude": 37.51667,
+        "longitude": 140.4,
+        "state": "Fukushima-ken",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.7 FM"
+      }
+    ],
+    "genres": [
+      "Adult Contemporary",
+      "Sports"
+    ]
+  },
+  {
+    "name": "Noas FM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB089.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul010-live1.sp1.fmslive.stream.ne.jp/jcbasimul010-live1/_definst_/jcbasimul010-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB089-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nakatsu",
+        "latitude": 33.59811,
+        "longitude": 131.1883,
+        "state": "Fukuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.9 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "Talk"
+    ]
+  },
+  {
+    "name": "FM ニライ (FM Nirai)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://mtist.as.smartstream.ne.jp/30003/livestream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/fm-nirai.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Chatan",
+        "latitude": 26.30944,
+        "longitude": 127.77028,
+        "state": "Okinawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.2 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "News",
+      "Local"
+    ]
+  },
+  {
+    "name": "FM西東京 84.2 (FM West Tokyo)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB031.stream/playlist.m3u8"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB031-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nishi-Tokyo-shi",
+        "latitude": 35.72526,
+        "longitude": 139.5383,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.2 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "FMおかざき (FM Okazaki)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 63,
+        "url": "http://www.simulradio.info/asx/FmOkazaki.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Okazaki",
+        "latitude": 34.95,
+        "longitude": 137.16667,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.3 FM"
+      }
+    ],
+    "genres": [
+      "News",
+      "Talk"
+    ]
+  },
+  {
+    "name": "FMサルース (FM Salus)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/FmSalus.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yokohama",
+        "latitude": 35.44778,
+        "longitude": 139.6425,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.1 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMたちかわ (FM Tachikawa)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://csra.fm/asx/fm-tachikawa.asx"
+      },
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/fm-tachikawa.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tachikawa",
+        "latitude": 35.69278,
+        "longitude": 139.41806,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.4 FM"
+      }
+    ],
+    "genres": [
+      "Talk",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "エフエム宝塚83.5 (FM Takarazuka)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB071.stream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul068-live1.sp1.fmslive.stream.ne.jp/jcbasimul068-live1/_definst_/jcbasimul068-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB071-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Takarazuka",
+        "latitude": 34.79936,
+        "longitude": 135.35697,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.5 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Community",
+      "Talk"
+    ]
+  },
+  {
+    "name": "FM 戸塚 (FM Totsuka)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/totsuka.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yokohama",
+        "latitude": 35.44778,
+        "longitude": 139.6425,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.7 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "横手かまくらFM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/yokote.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yokotemachi",
+        "latitude": 39.31691,
+        "longitude": 140.55034,
+        "state": "Akita",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.4 FM"
+      }
+    ],
+    "genres": [
+      "Talk",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "FMゆーとぴあ (FM Yutopia)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/FmYutopia.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yuzawa",
+        "latitude": 39.16667,
+        "longitude": 140.5,
+        "state": "Akita",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.3 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "かつしかFM (Katsushika FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/katsushika.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Katsushika-ku",
+        "latitude": 35.73333,
+        "longitude": 139.85,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.9 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "かわさきFM (FM K-City)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/kawasaki.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kawasaki",
+        "latitude": 35.52056,
+        "longitude": 139.71722,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.1 FM"
+      }
+    ],
+    "genres": [
+      "News",
+      "Talk"
+    ]
+  },
+  {
+    "name": "かずさエフエム (Breeze Radio, Kazusa FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB021.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul024-live1.sp1.fmslive.stream.ne.jp/jcbasimul024-live1/_definst_/jcbasimul024-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul024-live2.sp2.fmslive.stream.ne.jp/jcbasimul024-live2/_definst_/jcbasimul024-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kisarazu",
+        "latitude": 35.37472,
+        "longitude": 139.9225,
+        "state": "Chiba",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.4 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "Talk"
+    ]
+  },
+  {
+    "name": "KOCOラジ (郡山コミュニティ放送)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.jp/asx/kocofm.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kōriyama",
+        "latitude": 37.4,
+        "longitude": 140.38333,
+        "state": "Fukushima-ken",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.1 FM"
+      }
+    ],
+    "genres": [
+      "Talk"
+    ]
+  },
+  {
+    "name": "Mid-FM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 63,
+        "url": "http://www.simulradio.info/asx/mid-fm761.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nagoya",
+        "latitude": 35.18147,
+        "longitude": 136.90641,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.1 FM"
+      }
+    ],
+    "genres": [
+      "Adult Contemporary",
+      "Talk"
+    ]
+  },
+  {
+    "name": "ラジオ石巻",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/RadioIshinomaki.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Ishinomaki",
+        "latitude": 38.41667,
+        "longitude": 141.3,
+        "state": "Miyagi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.4 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "Talk",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "レディオ湘南FM (Radio Shonan)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB101-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Fujisawa",
+        "latitude": 35.34194,
+        "longitude": 139.47,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.1 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "Reds Wave",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/reds-wave.asx"
+      },
+      {
+        "quality": 32,
+        "url": "mms://hdv.nkansai.tv/redswave"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Saitama",
+        "latitude": 35.90807,
+        "longitude": 139.65657,
+        "state": "Saitama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.3 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "湘南ビーチFM (Shonan Beach FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 96,
+        "url": "http://150.95.174.29:8000/by_the_sea"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Zushi",
+        "latitude": 35.29167,
+        "longitude": 139.58556,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.9 FM"
+      },
+      {
+        "name": "Hayama",
+        "latitude": 35.26667,
+        "longitude": 139.58333,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.9 FM"
+      }
+    ],
+    "genres": [
+      "Adult Contemporary",
+      "Oldies"
+    ]
+  },
+  {
+    "name": "すまいるエフエム",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/smile.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Asaka",
+        "latitude": 35.80472,
+        "longitude": 139.60194,
+        "state": "Saitama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.7 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Variety",
+      "Talk"
+    ]
+  },
+  {
+    "name": "YES-fm (エフエムちゅうおう)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/yes-fm.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Unknown",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "state": null,
+        "country_name": "Afghanistan",
+        "country_code": "af",
+        "frequency": "78.1 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FM 白石 With-S",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.830.fm/with-s.asx"
+      },
+      {
+        "quality": 32,
+        "url": "mms://hdv5.nkansai.tv/shiroishi"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Sapporo",
+        "latitude": 43.06417,
+        "longitude": 141.34694,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.0 FM"
+      }
+    ],
+    "genres": [
+      "Variety",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "FMカオン",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "mms://hdv.nkansai.tv/kaon"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yokohama",
+        "latitude": 35.44778,
+        "longitude": 139.6425,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "ラヂオつくば (Radio Tsukuba)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/tsukuba.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tsukuba",
+        "latitude": 36.2,
+        "longitude": 140.1,
+        "state": "Ibaraki",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.2 FM"
+      }
+    ],
+    "genres": [
+      "News",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "練馬放送 (Nerima Broadcast)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "mmsh://www.nerimabroadcast.net:8080/"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nerima-ku",
+        "latitude": 35.73333,
+        "longitude": 139.65,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": ""
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "ラジオ モンスター 76.2 (Monster Radio)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB006.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul002-live1.sp1.fmslive.stream.ne.jp/jcbasimul002-live1/_definst_/jcbasimul002-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul002-live2.sp2.fmslive.stream.ne.jp/jcbasimul002-live2/_definst_/jcbasimul002-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yamagata-shi",
+        "latitude": 38.24056,
+        "longitude": 140.36333,
+        "state": "Yamagata",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "The Jazz Groove",
+    "status": "ACTIVE",
+    "country_code": "us",
+    "country_name": "United States",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://199.180.75.26/stream"
+      },
+      {
+        "quality": 128,
+        "url": "http://199.180.72.2:8015/"
+      },
+      {
+        "quality": 128,
+        "url": "http://west-mp3-128.streamthejazzgroove.com"
+      }
+    ],
+    "cities": [
+
+    ],
+    "genres": [
+      "Jazz"
+    ]
+  },
+  {
+    "name": "FMアップル (FM Apple)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 32,
+        "url": "mms://202.241.170.47:8080/"
+      },
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/fmapple.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Sapporo",
+        "latitude": 43.06417,
+        "longitude": 141.34694,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.5 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "BeFM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/befm.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hachinohe",
+        "latitude": 40.5,
+        "longitude": 141.5,
+        "state": "Aomori",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.5 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "鹿角きりたんぽFM (Kiritampo FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/kiritampo.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kazuno",
+        "latitude": 40.18361,
+        "longitude": 140.78722,
+        "state": "Akita",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.1 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "FMさくだいら (Fm Sakudaira)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/sakudaira.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Saku",
+        "latitude": 36.21667,
+        "longitude": 138.48333,
+        "state": "Nagano",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "96.5 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "あづみ野エフエム",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "mms://hdv.nkansai.tv/azumino"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nagano",
+        "latitude": 36.65139,
+        "longitude": 138.18111,
+        "state": "Nagano",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.1 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Ethnic"
+    ]
+  },
+  {
+    "name": "FMやまと ",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 63,
+        "url": "http://csra.fm/asx/FmYamato.asx"
+      },
+      {
+        "quality": 63,
+        "url": "http://www.simulradio.info/asx/FmYamato.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yokohama",
+        "latitude": 35.44778,
+        "longitude": 139.6425,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.7 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "中央エフエム (Radio City)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/chuo_fm.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Chūō-ku",
+        "latitude": 35.68333,
+        "longitude": 139.78333,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.0 FM"
+      }
+    ],
+    "genres": [
+      "Local"
+    ]
+  },
+  {
+    "name": "たかはぎFM (Takahagi FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 192,
+        "url": "http://www.simulradio.info/asx/takahagi.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Takahagi",
+        "latitude": 36.71667,
+        "longitude": 140.71667,
+        "state": "Ibaraki",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.8 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "エフエムポートウェイブ (Port Wave)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/portwavefm.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yokkaichi",
+        "latitude": 34.96667,
+        "longitude": 136.61667,
+        "state": "Mie",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.8 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "Radio Loveat",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/toyota.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Toyota",
+        "latitude": 35.08333,
+        "longitude": 137.15,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.6 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "Suzuka Voice FM（スズカ・ヴォイス・エフエム）",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/suzuka.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Suzuka",
+        "latitude": 34.88333,
+        "longitude": 136.58333,
+        "state": "Mie",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMいずのくに (FM Izunokuni)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/izunokuni.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shizuoka",
+        "latitude": 34.97694,
+        "longitude": 138.38306,
+        "state": "Shizuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "87.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "えふえむ・エヌ・ワン (FM N1)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "mmsh://android.fmn1.jp/live/?MSWMExt=.asf"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nonoichi",
+        "latitude": 36.53333,
+        "longitude": 136.61667,
+        "state": "Ishikawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.3 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "ハーバーステーション (Harbor Station)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 24,
+        "url": "http://211.11.77.51:8000/"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tsuruga",
+        "latitude": 35.64547,
+        "longitude": 136.0558,
+        "state": "Fukui",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.9 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMわいわい ",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/fmyy.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kobe",
+        "latitude": 34.6913,
+        "longitude": 135.183,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.8 FM"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "FM Hanako (FMもりぐち)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB069.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB069-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Moriguchi",
+        "latitude": 34.73333,
+        "longitude": 135.56667,
+        "state": "Ōsaka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "82.4 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "みのおエフエム (Minoh FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://fm.minoh.net/minohfm.asx"
+      },
+      {
+        "quality": 0,
+        "url": "https://musicbird-hls.leanstream.co/musicbird/JCB102.stream/playlist.m3u8"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB102-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Minoh",
+        "latitude": 34.82691,
+        "longitude": 135.47057,
+        "state": "Ōsaka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "81.6 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "京都リビングエフエム (Kyoto Living FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/KyotoLivingFM.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kyoto",
+        "latitude": 35.02107,
+        "longitude": 135.75385,
+        "state": "Kyoto",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.5 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "さくらFM (FM Sakura)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB072.stream/playlist.m3u8"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nishinomiya",
+        "latitude": 34.71667,
+        "longitude": 135.33333,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.7 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FM aiai エフエムあまがさき",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/aiai.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Amagasaki",
+        "latitude": 34.71667,
+        "longitude": 135.41667,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "82.0 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "えふえむ草津 (Rockets785)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB063.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul081-live1.sp1.fmslive.stream.ne.jp/jcbasimul081-live1/_definst_/jcbasimul081-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB063-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kusatsu",
+        "latitude": 35.01667,
+        "longitude": 135.96667,
+        "state": "Shiga Prefecture",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.5 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMはしもと (FM Hasimoto)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/hasimoto.asx"
+      },
+      {
+        "quality": 64,
+        "url": "mms://hdv2.nkansai.tv/hasimoto"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hashimoto",
+        "latitude": 34.31667,
+        "longitude": 135.61667,
+        "state": "Wakayama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "81.6 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "京都三条ラジオカフェ",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/radiocafe.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kyoto",
+        "latitude": 35.02107,
+        "longitude": 135.75385,
+        "state": "Kyoto",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.7 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMたんご (FM Tango)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://www.simulradio.info/asx/tango.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kyoto",
+        "latitude": 35.02107,
+        "longitude": 135.75385,
+        "state": "Kyoto",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.4 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FM Sun",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/fmsun.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Sakaide",
+        "latitude": 34.31667,
+        "longitude": 133.85,
+        "state": "Kagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.1 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "あまみFM ディ! (Amami FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.npo-d.org/simul/AmamiFM.asx"
+      },
+      {
+        "quality": 64,
+        "url": "mms://hdv.nkansai.tv/amami"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kagoshima",
+        "latitude": 31.56018,
+        "longitude": 130.55814,
+        "state": "Kagoshima",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.7 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMしまばら (FM Shimabara)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.shimabara.fm/st/fm-shimabara-live.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shimabara",
+        "latitude": 32.78333,
+        "longitude": 130.36667,
+        "state": "Nagasaki",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "88.4 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "スターコーンFM (Star Corn FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "mms://hdv.nkansai.tv/starcorn"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Fukuoka",
+        "latitude": 33.60639,
+        "longitude": 130.41806,
+        "state": "Fukuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.7 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "COMI×TEN［コミてん］(コミュニティラジオ天神)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://comiten.jp/live.asx"
+      },
+      {
+        "quality": 128,
+        "url": "mms://st1.shimabara.jp/comiten"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Fukuoka",
+        "latitude": 33.60639,
+        "longitude": 130.41806,
+        "state": "Fukuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.7 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "Air Station Hibiki（エアーステーションひびき）",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/hibiki.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kitakyushu",
+        "latitude": 33.83333,
+        "longitude": 130.83333,
+        "state": "Fukuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "88.2 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMのべおか (FM Nobeoka)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://hdv4.nkansai.tv/nobeoka"
+      },
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/nobeoka.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nobeoka",
+        "latitude": 32.58333,
+        "longitude": 131.66667,
+        "state": "Miyazaki",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "88.6 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMいしがき (FM Ishigaki)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "https://round4x.lve.jp/live/_definst_/hiDL-lMqLU13/playlist.m3u8"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Ishigaki",
+        "latitude": 24.34478,
+        "longitude": 124.15717,
+        "state": "Okinawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.1 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMうるま (FM Uruma)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://mtist.as.smartstream.ne.jp/30011/livestream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/uruma.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Naha",
+        "latitude": 26.2125,
+        "longitude": 127.68111,
+        "state": "Okinawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "86.8 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "News"
+    ]
+  },
+  {
+    "name": "FMもとぶ (FM Motobu)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://www.simulradio.info/asx/motob.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Okinawa",
+        "latitude": 26.33583,
+        "longitude": 127.80139,
+        "state": "Okinawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.2 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "Local"
+    ]
+  },
+  {
+    "name": "FMくめじま (FM Kumejima)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://mtist.as.smartstream.ne.jp/30077/livestream/playlist.m3u8"
+      },
+      {
+        "quality": 64,
+        "url": "http://www.simulradio.info/asx/fmkumejima.asx"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Okinawa",
+        "latitude": 26.33583,
+        "longitude": 127.80139,
+        "state": "Okinawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "89.7 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "Local"
+    ]
+  },
+  {
+    "name": "FMはな (FM Hana)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB069.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul001-live1.sp1.fmslive.stream.ne.jp/jcbasimul001-live1/_definst_/jcbasimul001-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB069-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Sapporo",
+        "latitude": 43.06417,
+        "longitude": 141.34694,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "87.0 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "Local"
+    ]
+  },
+  {
+    "name": "FM-POCO (ＦＭポコ)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB010.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul015-live1.sp1.fmslive.stream.ne.jp/jcbasimul015-live1/_definst_/jcbasimul015-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB010-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Fukushima-shi",
+        "latitude": 37.75,
+        "longitude": 140.46778,
+        "state": "Fukushima-ken",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "エフエムいわぬま",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB011.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul016-live1.sp1.fmslive.stream.ne.jp/jcbasimul016-live1/_definst_/jcbasimul016-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul016-live2.sp2.fmslive.stream.ne.jp/jcbasimul016-live2/_definst_/jcbasimul016-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Iwanuma",
+        "latitude": 38.10472,
+        "longitude": 140.85944,
+        "state": "Miyagi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.9 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Kitakata City FM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB013.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul018-live1.sp1.fmslive.stream.ne.jp/jcbasimul018-live1/_definst_/jcbasimul018-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB013-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kitakata",
+        "latitude": 37.65,
+        "longitude": 139.86667,
+        "state": "Fukushima-ken",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "エフエムNCVおきたまGO! (FM NCV Go!)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB007.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul013-live1.sp1.fmslive.stream.ne.jp/jcbasimul013-live1/_definst_/jcbasimul013-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB007-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yonezawa",
+        "latitude": 37.91667,
+        "longitude": 140.11667,
+        "state": "Yamagata",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.4 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "H@!FM (はっとエフエム)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB012.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul017-live1.sp1.fmslive.stream.ne.jp/jcbasimul017-live1/_definst_/jcbasimul017-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB012-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Sendai",
+        "latitude": 38.26889,
+        "longitude": 140.87194,
+        "state": "Miyagi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMアップルウェーブ (FM Apple Wave)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB004.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul011-live1.sp1.fmslive.stream.ne.jp/jcbasimul011-live1/_definst_/jcbasimul011-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB004-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hirosaki",
+        "latitude": 40.59306,
+        "longitude": 140.4725,
+        "state": "Aomori",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.8 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMOne 787",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB005.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul012-live1.sp1.fmslive.stream.ne.jp/jcbasimul012-live1/_definst_/jcbasimul012-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB005-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hanamaki",
+        "latitude": 39.38333,
+        "longitude": 141.11667,
+        "state": "Iwate",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FM Blue Shonan",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB015.stream/playlist.m3u8"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB015-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yokosuka",
+        "latitude": 35.28361,
+        "longitude": 139.66722,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.5 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "鎌倉エフエム (Kamakura FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB016.stream/playlist.m3u8"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB016-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kamakura",
+        "latitude": 35.30889,
+        "longitude": 139.55028,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "82.8 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "エフエム茶笛",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB019.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul022-live1.sp1.fmslive.stream.ne.jp/jcbasimul022-live1/_definst_/jcbasimul022-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB019-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Saitama",
+        "latitude": 35.90807,
+        "longitude": 139.65657,
+        "state": "Saitama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FM Kofu",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB025.stream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul028-live1.sp1.fmslive.stream.ne.jp/jcbasimul028-live1/_definst_/jcbasimul028-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB025-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kofu",
+        "latitude": 35.66389,
+        "longitude": 138.56833,
+        "state": "Yamanashi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FM Takasaki",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB028.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "http://musicbird.leanstream.co/JCB028-MP3"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul030-live1.sp1.fmslive.stream.ne.jp/jcbasimul030-live1/_definst_/jcbasimul030-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Takasaki",
+        "latitude": 36.33333,
+        "longitude": 139.01667,
+        "state": "Gunma",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMえどがわ - トップ (FM Edogawa)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB033.stream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul033-live1.sp1.fmslive.stream.ne.jp/jcbasimul033-live1/_definst_/jcbasimul033-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB033-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Edogawa-ku",
+        "latitude": 35.7,
+        "longitude": 139.88333,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FM TARO",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB029.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul031-live2.sp2.fmslive.stream.ne.jp/jcbasimul031-live2/_definst_/jcbasimul031-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB029-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Ōta",
+        "latitude": 36.3,
+        "longitude": 139.36667,
+        "state": "Gunma",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMうらやすウェブサイト",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB020.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul023-live1.sp1.fmslive.stream.ne.jp/jcbasimul023-live1/_definst_/jcbasimul023-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul023-live2.sp2.fmslive.stream.ne.jp/jcbasimul023-live2/_definst_/jcbasimul023-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Urayasu",
+        "latitude": 35.67056,
+        "longitude": 139.88861,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "83.6 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FM湘南ナパサ (FM Shonan Napasa)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB014.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul019-live1.sp1.fmslive.stream.ne.jp/jcbasimul019-live1/_definst_/jcbasimul019-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB014-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hiratsuka",
+        "latitude": 35.32306,
+        "longitude": 139.34222,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMだいご",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB023.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul026-live1.sp1.fmslive.stream.ne.jp/jcbasimul026-live1/_definst_/jcbasimul026-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul026-live2.sp2.fmslive.stream.ne.jp/jcbasimul026-live2/_definst_/jcbasimul026-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Daigo",
+        "latitude": 36.76667,
+        "longitude": 140.35,
+        "state": "Ibaraki",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.5 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "いいだエフエム・iステーション (i Station)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB056.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul048-live1.sp1.fmslive.stream.ne.jp/jcbasimul048-live1/_definst_/jcbasimul048-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB056-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Iida",
+        "latitude": 35.51965,
+        "longitude": 137.82074,
+        "state": "Nagano",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "ＦＭながおか (FM Nagaoka)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB053.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul046-live1.sp1.fmslive.stream.ne.jp/jcbasimul046-live1/_definst_/jcbasimul046-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB053-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nagaoka",
+        "latitude": 37.45,
+        "longitude": 138.85,
+        "state": "Niigata",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "80.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Radio AGATT",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB052.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul004-live2.sp2.fmslive.stream.ne.jp/jcbasimul004-live2/_definst_/jcbasimul004-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB052-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shibata",
+        "latitude": 37.95,
+        "longitude": 139.33333,
+        "state": "Niigata",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.9 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "エルシーブイFM769 (LCV-FM769)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB055.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul047-live1.sp1.fmslive.stream.ne.jp/jcbasimul047-live1/_definst_/jcbasimul047-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul047-live2.sp2.fmslive.stream.ne.jp/jcbasimul047-live2/_definst_/jcbasimul047-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Suwa",
+        "latitude": 36.03799,
+        "longitude": 138.11308,
+        "state": "Nagano",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.9 FM"
+      }
+    ],
+    "genres": [
+      "News"
+    ]
+  },
+  {
+    "name": "富山シティエフエム (Toyama City FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB057.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul005-live1.sp1.fmslive.stream.ne.jp/jcbasimul005-live1/_definst_/jcbasimul005-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB057-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Toyama",
+        "latitude": 36.69528,
+        "longitude": 137.21139,
+        "state": "Toyama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMとなみ",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB059.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul049-live1.sp1.fmslive.stream.ne.jp/jcbasimul049-live1/_definst_/jcbasimul049-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul049-live2.sp2.fmslive.stream.ne.jp/jcbasimul049-live2/_definst_/jcbasimul049-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Toyama",
+        "latitude": 36.69528,
+        "longitude": 137.21139,
+        "state": "Toyama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.9 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FmHaro!76.1（エフエムハロー!）",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB034.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul034-live1.sp1.fmslive.stream.ne.jp/jcbasimul034-live1/_definst_/jcbasimul034-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB034-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hamamatsu",
+        "latitude": 34.7,
+        "longitude": 137.73333,
+        "state": "Shizuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.1 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FM PiPi (FM Tajimi)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB043.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul040-live1.sp1.fmslive.stream.ne.jp/jcbasimul040-live1/_definst_/jcbasimul040-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB043-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tajimi",
+        "latitude": 35.31667,
+        "longitude": 137.13333,
+        "state": "Gifu",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FM IS みらいずステーション",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB035.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul035-live1.sp1.fmslive.stream.ne.jp/jcbasimul035-live1/_definst_/jcbasimul035-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB035-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shizuoka",
+        "latitude": 34.97694,
+        "longitude": 138.38306,
+        "state": "Shizuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "87.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "エフエムななみ (FM Nanani)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB049.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul044-live1.sp1.fmslive.stream.ne.jp/jcbasimul044-live1/_definst_/jcbasimul044-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB049-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hiroshima",
+        "latitude": 34.39627,
+        "longitude": 132.45937,
+        "state": "Hiroshima",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FM Watch (FMわっち)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB044.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB044-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Gifu City",
+        "latitude": 35.42291,
+        "longitude": 136.76039,
+        "state": "Gifu",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.5 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "g-sky FM島田 76.5",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB036.stream/playlist.m3u8"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shimada",
+        "latitude": 34.81667,
+        "longitude": 138.18333,
+        "state": "Shizuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.5 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "United North (愛知北エフエム放送)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB046.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB046-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Inuyama",
+        "latitude": 35.37995,
+        "longitude": 136.94295,
+        "state": "Gifu",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Radio SANQ FM 84.5 (ラジオサンキュー)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB047.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul006-live1.sp1.fmslive.stream.ne.jp/jcbasimul006-live1/_definst_/jcbasimul006-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB047-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Seto",
+        "latitude": 35.23333,
+        "longitude": 137.1,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "84.5 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "富士山GOGOエフエム (FM御殿場)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB037.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul037-live1.sp1.fmslive.stream.ne.jp/jcbasimul037-live1/_definst_/jcbasimul037-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB037-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Gotemba",
+        "latitude": 35.3,
+        "longitude": 138.93333,
+        "state": "Shizuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "86.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "いなべエフエム FM 86.1",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB050.stream/playlist.m3u8?args=web_03"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tsu",
+        "latitude": 34.73028,
+        "longitude": 136.50861,
+        "state": "Mie",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "86.1 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "ＦＭいかる (FM Ikaru)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB064.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul050-live1.sp1.fmslive.stream.ne.jp/jcbasimul050-live1/_definst_/jcbasimul050-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB064-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Ayabe",
+        "latitude": 35.3,
+        "longitude": 135.25,
+        "state": "Kyoto",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "ＦＭちゃお",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB067.stream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul051-live1.sp1.fmslive.stream.ne.jp/jcbasimul051-live1/_definst_/jcbasimul051-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB067-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yao",
+        "latitude": 34.61667,
+        "longitude": 135.6,
+        "state": "Ōsaka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "ならどっとFM (Nara FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB073.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul053-live1.sp1.fmslive.stream.ne.jp/jcbasimul053-live1/_definst_/jcbasimul053-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB073-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nara",
+        "latitude": 34.68505,
+        "longitude": 135.80485,
+        "state": "Nara",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.4 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "バナナエフエム (Banana FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB075.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul054-live1.sp1.fmslive.stream.ne.jp/jcbasimul054-live1/_definst_/jcbasimul054-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul054-live2.sp2.fmslive.stream.ne.jp/jcbasimul054-live2/_definst_/jcbasimul054-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Wakayama",
+        "latitude": 34.22611,
+        "longitude": 135.1675,
+        "state": "Wakayama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "87.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "エフエムふくやま Radio Bingo",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB078.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul008-live1.sp1.fmslive.stream.ne.jp/jcbasimul008-live1/_definst_/jcbasimul008-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB078-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Fukuyama",
+        "latitude": 34.48333,
+        "longitude": 133.36667,
+        "state": "Hiroshima",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Radio MOMO (レディオモモ)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB079.stream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul055-live1.sp1.fmslive.stream.ne.jp/jcbasimul055-live1/_definst_/jcbasimul055-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB079-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Okayama",
+        "latitude": 34.66167,
+        "longitude": 133.935,
+        "state": "Okayama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.0 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "エフエムおのみち (FM Onomichi)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB081.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul057-live1.sp1.fmslive.stream.ne.jp/jcbasimul057-live1/_definst_/jcbasimul057-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB081-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Onomichi",
+        "latitude": 34.41667,
+        "longitude": 133.2,
+        "state": "Hiroshima",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.4 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Come On! FM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB084.stream/playlist.m3u8?args=web_03"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shimonoseki",
+        "latitude": 33.95,
+        "longitude": 130.95,
+        "state": "Yamaguchi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.4 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "しゅうなんエフエム (FM Shunan)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB085.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul059-live1.sp1.fmslive.stream.ne.jp/jcbasimul059-live1/_definst_/jcbasimul059-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB085-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kudamatsu",
+        "latitude": 34.0,
+        "longitude": 131.86667,
+        "state": "Yamaguchi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.4 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "ＦＭくらしき (FM Kurashiki)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB080.stream/playlist.m3u8"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul056-live1.sp1.fmslive.stream.ne.jp/jcbasimul056-live1/_definst_/jcbasimul056-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB080-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kurashiki",
+        "latitude": 34.58333,
+        "longitude": 133.76667,
+        "state": "Okayama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "82.8 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMラヂオバリバリ",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB076.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul009-live1.sp1.fmslive.stream.ne.jp/jcbasimul009-live1/_definst_/jcbasimul009-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul009-live2.sp2.fmslive.stream.ne.jp/jcbasimul009-live2/_definst_/jcbasimul009-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Matsuyama",
+        "latitude": 33.83916,
+        "longitude": 132.76574,
+        "state": "Ehime",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "78.9 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "エフエムやつしろ (かっぱFM, Kappa FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB090.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul063-live1.sp1.fmslive.stream.ne.jp/jcbasimul063-live1/_definst_/jcbasimul063-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB090-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yatsushiro",
+        "latitude": 32.5,
+        "longitude": 130.6,
+        "state": "Kumamoto",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.5 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "ドリームスエフエム (Dreams FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB093.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul065-live1.sp1.fmslive.stream.ne.jp/jcbasimul065-live1/_definst_/jcbasimul065-live"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul065-live2.sp2.fmslive.stream.ne.jp/jcbasimul065-live2/_definst_/jcbasimul065-live"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kurume",
+        "latitude": 33.31667,
+        "longitude": 130.51667,
+        "state": "Fukuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.5 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FM Yame",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB086.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul060-live1.sp1.fmslive.stream.ne.jp/jcbasimul060-live1/_definst_/jcbasimul060-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB086-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Fukuoka",
+        "latitude": 33.60639,
+        "longitude": 130.41806,
+        "state": "Fukuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "80.1 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FMからつ (FM Karatsu)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB092.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul064-live1.sp1.fmslive.stream.ne.jp/jcbasimul064-live1/_definst_/jcbasimul064-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB092-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Karatsu",
+        "latitude": 33.4425,
+        "longitude": 129.96972,
+        "state": "Saga Prefecture",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "86.8 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "ゆふいんラヂオ局 (Yufu in Radio Station)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB088.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul062-live1.sp1.fmslive.stream.ne.jp/jcbasimul062-live1/_definst_/jcbasimul062-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB088-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Ōita",
+        "latitude": 33.23806,
+        "longitude": 131.6125,
+        "state": "Oita",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "87.4 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Ottava (オッターヴァ)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://ottava.streamguys1.com/ottava1_b"
+      },
+      {
+        "quality": 0,
+        "url": "https://sslv.smartstream.ne.jp/ottava/_definst_/live01/playlist.m3u8"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Classical"
+    ]
+  },
+  {
+    "name": "おおすみFMネットワーク (FM Osumi)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 192,
+        "url": "http://adachisystem.net:8000/0033FM"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kanoya",
+        "latitude": 31.38333,
+        "longitude": 130.85,
+        "state": "Kagoshima",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.2 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "ラヂオきしわだ (Radio Kishiwada)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 96,
+        "url": "http://media.radiokishiwada.jp:8000/radikishi.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kishiwada",
+        "latitude": 34.46667,
+        "longitude": 135.36667,
+        "state": "Ōsaka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "79.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Soulful Web Station",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://listen.radionomy.com/soulful-web-station.m3u"
+      }
+    ],
+    "cities": [
+
+    ],
+    "genres": [
+      "Soul",
+      "Chillout"
+    ]
+  },
+  {
+    "name": "Vocaloid Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 320,
+        "url": "http://curiosity.shoutca.st:8019/128"
+      }
+    ],
+    "cities": [
+
+    ],
+    "genres": [
+      "J-pop"
+    ]
+  },
+  {
+    "name": "Kittikun Minimal Techno",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 320,
+        "url": "http://shoutcast.kittikun.jp:11168/;"
+      }
+    ],
+    "cities": [
+
+    ],
+    "genres": [
+      "Techno",
+      "House",
+      "Electronic"
+    ]
+  },
+  {
+    "name": "Gyusyabu - Retro AC GAME Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://gyusyabu.ddo.jp:8100/;stream.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "name": "JPHiP Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://radio.jphip.com:8800/;"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "Dada More Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 192,
+        "url": "http://dadamore2.ddo.jp:8000/"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": ""
+      }
+    ],
+    "genres": [
+      "J-pop"
+    ]
+  },
+  {
+    "name": "Koreiina これい～な",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://std1.ladio.net:8010/koreiina"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": ""
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Hip Hop"
+    ]
+  },
+  {
+    "name": "エフエムしみず マリンパル",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB039-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shizuoka",
+        "latitude": 34.97694,
+        "longitude": 138.38306,
+        "state": "Shizuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.3 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "JPopsuki Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 192,
+        "url": "http://jpopsuki.fm:8000/stream"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "DAB"
+      }
+    ],
+    "genres": [
+      "J-pop"
+    ]
+  },
+  {
+    "name": "エフエムもえる (FM Moeru)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB002.stream/playlist.m3u8?args=web_03"
+      },
+      {
+        "quality": 0,
+        "url": "rtmp://jcbasimul072-live2.sp2.fmslive.stream.ne.jp/jcbasimul072-live2/_definst_/jcbasimul072-live"
+      },
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB002-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Rumoi",
+        "latitude": 43.93444,
+        "longitude": 141.64278,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.9 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Japan Hits - Asia DREAM Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://bb30.sonixcast.com:9764/;"
+      },
+      {
+        "quality": 128,
+        "url": "http://bb30.sonixcast.com:9764/;.mp3"
+      },
+      {
+        "quality": 128,
+        "url": "http://bluford.torontocast.com:8504/;"
+      },
+      {
+        "quality": 128,
+        "url": "http://bluford.torontocast.com:8504/;.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "J-pop",
+      "Top 40"
+    ]
+  },
+  {
+    "name": "J-Pop Powerplay",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://agnes.torontocast.com:8102/;"
+      },
+      {
+        "quality": 128,
+        "url": "http://agnes.torontocast.com:8102/;.mp3"
+      },
+      {
+        "quality": 128,
+        "url": "http://bb30.sonixcast.com:9628/;"
+      },
+      {
+        "quality": 128,
+        "url": "http://bb30.sonixcast.com:9628/;.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nagoya",
+        "latitude": 35.18147,
+        "longitude": 136.90641,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "J-Rock Powerplay",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://bb30.sonixcast.com:9508/;.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "94.8 FM"
+      },
+      {
+        "name": "Nagoya",
+        "latitude": 35.18147,
+        "longitude": 136.90641,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Rock",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "J-Club Powerplay HipHop",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://agnes.torontocast.com:8051/;"
+      },
+      {
+        "quality": 128,
+        "url": "http://agnes.torontocast.com:8051/;.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nagoya",
+        "latitude": 35.18147,
+        "longitude": 136.90641,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "J-pop"
+    ]
+  },
+  {
+    "name": "J-Idols Project Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://agnes.torontocast.com:8011/stream"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "International",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "J-Pop Project Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://agnes.torontocast.com:8083/stream"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "J-pop",
+      "World Music"
+    ]
+  },
+  {
+    "name": "J-Pop Powerplay Kawaii",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://bb31.sonixcast.com:20002/;"
+      },
+      {
+        "quality": 128,
+        "url": "http://bb31.sonixcast.com:20002/;.mp3"
+      },
+      {
+        "quality": 128,
+        "url": "http://sky1.torontocast.com:9029/;"
+      },
+      {
+        "quality": 128,
+        "url": "http://sky1.torontocast.com:9029/;.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "J-pop",
+      "World Music"
+    ]
+  },
+  {
+    "name": "Hawaiian Music Live",
+    "status": "ACTIVE",
+    "country_code": "us",
+    "country_name": "United States",
+    "streams": [
+      {
+        "quality": 192,
+        "url": "http://s6.voscast.com:10108"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Honolulu",
+        "latitude": 21.30694,
+        "longitude": -157.85833,
+        "state": "Hawaii",
+        "country_name": "United States",
+        "country_code": "us",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Variety",
+      "Caribbean"
+    ]
+  },
+  {
+    "name": "Hotmix Radio Japan",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://hotmixradio-japan.ice.infomaniak.ch/hotmixradio-japan-128.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "BBN Japanese",
+    "status": "ACTIVE",
+    "country_code": "us",
+    "country_name": "United States",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://bbnjapanese-lh.akamaihd.net/i/BibleBroadcasting_Japaneseios@87760/master.m3u8"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Charlotte",
+        "latitude": 35.22709,
+        "longitude": -80.84313,
+        "state": "North Carolina",
+        "country_name": "United States",
+        "country_code": "us",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Christian",
+      "Religious"
+    ]
+  },
+  {
+    "name": "Tokyo FM World",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://tokyofmworld.leanstream.co/JOAUFM-MP3/;"
+      },
+      {
+        "quality": 0,
+        "url": "http://tokyofmworld.leanstream.co/JOAUFM-MP3?args=tunein"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "80.0 FM"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Talk",
+      "Local"
+    ]
+  },
+  {
+    "name": "No Life Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 96,
+        "url": "http://radio.nolife-radio.com:9000/stream"
+      }
+    ],
+    "cities": [
+
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "Retro PC GAME Streaming Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 256,
+        "url": "http://gyusyabu.ddo.jp:8000/listen.pls"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "Nightwave Plaza",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 96,
+        "url": "http://radio.plaza.one/mp3_96"
+      },
+      {
+        "quality": 96,
+        "url": "https://radio.plaza.one/ogg"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Electronic"
+    ]
+  },
+  {
+    "name": "FM Kahoku",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 96,
+        "url": "http://radio.kahoku.net:8000/;"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Ishikawa",
+        "latitude": 26.42333,
+        "longitude": 127.82139,
+        "state": "Okinawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.8 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "Talk"
+    ]
+  },
+  {
+    "name": "WREP",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 48,
+        "url": "http://139.99.4.27/stream"
+      },
+      {
+        "quality": 128,
+        "url": "http://192.95.18.87:5020/stream"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shibuya-ku",
+        "latitude": 35.66404,
+        "longitude": 139.69821,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Hip Hop"
+    ]
+  },
+  {
+    "name": "LISTEN.moe",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "https://listen.moe/stream"
+      }
+    ],
+    "cities": [
+
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "Miyako Disaster Relief FM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "mms://hdv2.nkansai.tv/miyako"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Miyako",
+        "latitude": 39.63667,
+        "longitude": 141.9525,
+        "state": "Iwate",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "774 AM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "Talk"
+    ]
+  },
+  {
+    "name": "JP Radio JPOP",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://listen.radionomy.com/jpradiojpop"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "J-pop"
+    ]
+  },
+  {
+    "name": "Radio Hayama",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://199.195.194.140:8073/;"
+      },
+      {
+        "quality": 128,
+        "url": "http://server10.reliastream.com:2199/tunein/radiohayama.pls"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Hayama",
+        "latitude": 35.26667,
+        "longitude": 139.58333,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Easy Listening"
+    ]
+  },
+  {
+    "name": "I-Wave 76.5 FM",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB048-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Ichinomiya",
+        "latitude": 35.3,
+        "longitude": 136.8,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.5 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "Talk"
+    ]
+  },
+  {
+    "name": "J-Pop Sakura 懐かしい",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://bb31.sonixcast.com:20278/;"
+      },
+      {
+        "quality": 0,
+        "url": "http://bb31.sonixcast.com:20278/;.mp3"
+      },
+      {
+        "quality": 0,
+        "url": "http://sky1.torontocast.com:9033/;.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "Oldies",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "J-Pop 春 Sakura",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://cc.sonixcast.com:8058/;"
+      },
+      {
+        "quality": 0,
+        "url": "http://cc.sonixcast.com:8058/;.mp3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Pop Music",
+      "J-pop"
+    ]
+  },
+  {
+    "name": "ボイス・キュー (VOICE CUE)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 56,
+        "url": "http://musicbird.leanstream.co/JCB038"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shizuoka",
+        "latitude": 34.97694,
+        "longitude": 138.38306,
+        "state": "Shizuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "76.9 FM-Hi!",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 56,
+        "url": "http://musicbird.leanstream.co/JCB040"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Shizuoka",
+        "latitude": 34.97694,
+        "longitude": 138.38306,
+        "state": "Shizuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "76.9 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "おらんだラジオ (Oranda Radio)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 56,
+        "url": "http://musicbird.leanstream.co/JCB008"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Nagai",
+        "latitude": 38.10361,
+        "longitude": 140.035,
+        "state": "Yamagata",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "77.7 FM"
+      }
+    ],
+    "genres": [
+      "Community"
+    ]
+  },
+  {
+    "name": "FRED FILM RADIO Japanese",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://s6.webradio-hosting.com:8050/"
+      }
+    ],
+    "cities": [
+
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "Jazz Up Japan Radio",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 0,
+        "url": "http://78.129.232.226:8052/"
+      }
+    ],
+    "cities": [
+
+    ],
+    "genres": [
+
+    ]
+  },
+  {
+    "name": "ビームFM (Beam FM) - Adult Hits",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 128,
+        "url": "http://aac.beamfm.net:8008"
+      },
+      {
+        "quality": 128,
+        "url": "http://mp3.beamfm.net:8012"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yokohama",
+        "latitude": 35.44778,
+        "longitude": 139.6425,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Osaka",
+        "latitude": 34.69374,
+        "longitude": 135.50218,
+        "state": "Ōsaka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Nagoya",
+        "latitude": 35.18147,
+        "longitude": 136.90641,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Kyoto",
+        "latitude": 35.02107,
+        "longitude": 135.75385,
+        "state": "Kyoto",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Kobe",
+        "latitude": 34.6913,
+        "longitude": 135.183,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Kawasaki",
+        "latitude": 35.52056,
+        "longitude": 139.71722,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Hiroshima",
+        "latitude": 34.39627,
+        "longitude": 132.45937,
+        "state": "Hiroshima",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Fukuoka",
+        "latitude": 33.60639,
+        "longitude": 130.41806,
+        "state": "Fukuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Sapporo",
+        "latitude": 43.06417,
+        "longitude": 141.34694,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Saitama",
+        "latitude": 35.90807,
+        "longitude": 139.65657,
+        "state": "Saitama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Adult Contemporary"
+    ]
+  },
+  {
+    "name": "FM Fujiyama",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 96,
+        "url": "http://musicbird.leanstream.co/JCB026-MP3"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Kofu",
+        "latitude": 35.66389,
+        "longitude": 138.56833,
+        "state": "Yamanashi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "99.4 FM"
+      }
+    ],
+    "genres": [
+      "Community",
+      "Talk"
+    ]
+  },
+  {
+    "name": "ビームFM (Beam FM)",
+    "status": "ACTIVE",
+    "country_code": "jp",
+    "country_name": "Japan",
+    "streams": [
+      {
+        "quality": 64,
+        "url": "http://aac.beamfm.net:8000"
+      },
+      {
+        "quality": 128,
+        "url": "http://mp3.beamfm.net:8004"
+      }
+    ],
+    "cities": [
+      {
+        "name": "Yokohama",
+        "latitude": 35.44778,
+        "longitude": 139.6425,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.69171,
+        "state": "Tokyo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Osaka",
+        "latitude": 34.69374,
+        "longitude": 135.50218,
+        "state": "Ōsaka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Nagoya",
+        "latitude": 35.18147,
+        "longitude": 136.90641,
+        "state": "Aichi",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Kyoto",
+        "latitude": 35.02107,
+        "longitude": 135.75385,
+        "state": "Kyoto",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Kobe",
+        "latitude": 34.6913,
+        "longitude": 135.183,
+        "state": "Hyōgo",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Kawasaki",
+        "latitude": 35.52056,
+        "longitude": 139.71722,
+        "state": "Kanagawa",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Hiroshima",
+        "latitude": 34.39627,
+        "longitude": 132.45937,
+        "state": "Hiroshima",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Fukuoka",
+        "latitude": 33.60639,
+        "longitude": 130.41806,
+        "state": "Fukuoka",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Sapporo",
+        "latitude": 43.06417,
+        "longitude": 141.34694,
+        "state": "Hokkaido",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      },
+      {
+        "name": "Saitama",
+        "latitude": 35.90807,
+        "longitude": 139.65657,
+        "state": "Saitama",
+        "country_name": "Japan",
+        "country_code": "jp",
+        "frequency": "Online"
+      }
+    ],
+    "genres": [
+      "Hot AC"
+    ]
+  }
+]
